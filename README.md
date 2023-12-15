@@ -1,21 +1,6 @@
-# Exfun
+# Exfun - Functional Elixir
 
-**TODO: Add description**
+## Basic Exercise Repo for My Part time Elixir Learning Journey.
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `exfun` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:exfun, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/exfun>.
+### To run function you need to have Erlang and elixir in your system or alternatively you can use replit.com to spin up the elixir code
 
